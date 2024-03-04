@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab6.features.search.DirCreateStoryAndDelete" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-15T07:51:08" hostname="Russ-MacBook-Air.local" time="27.783">
+  <properties/>
+  <testcase name="succesful_dir_creation" classname="lab6.features.search.DirCreateStoryAndDelete" time="22.635"/>
+  <testcase name="succesful_dir_deletion" classname="lab6.features.search.DirCreateStoryAndDelete" time="4.772"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Nov 15, 2023 9:51:09 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 40043
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Nov 15, 2023 9:51:18 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab6.features.search.ftpParamerizedStory
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 7, Time elapsed: 0.846 sec - in lab6.features.search.ftpParamerizedStory
